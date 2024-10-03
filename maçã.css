@@ -1,0 +1,19 @@
+.title{
+    background-color: orangered;
+    color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 2cm;
+}
+.o{
+    height: 10px;
+    width: 1000px;
+}
+body{
+    height: 10px;
+    width: 1000px;
+    background-color: orangered;
+}
+.img{
+    
+}
